@@ -18,7 +18,7 @@ h1, h2, h3, h4{
   line-height:1;
   margin:0;
   padding:0;
-  letter-spacing:-1px;
+  /*letter-spacing:-1px;*/
 }
 
 li{
@@ -129,18 +129,18 @@ a:hover, a:focus {
 }
 
 #bio h2, #projects-index h2, #projects-index h2, #projects-index-container h2, #collections-index h2, #videos-index h2{
-  font-size:2.4em;
+  font-size:2em;
   color:#000000;
   text-align:center;
   margin-top:15px;
   font-weight:300;
-  font-style:italic;
+  font-style:normal;
 }
 
 #projects-index h3{
   font-size:3.2em;
   color:#000000;
-  text-align:center;
+  text-align:left;
   margin-bottom:15px;
   font-weight:300;
   font-style:italic;
@@ -267,14 +267,14 @@ a:hover, a:focus {
   list-style:none;
   padding:0;
   margin:0;
-  float:right;
+  float:left;
 }
 
 #project-nav ul li{
   display:block;
   float:left;
-  text-align:right;
-  padding:16px 0 16px 20px;
+  text-align:left;
+  padding:16px 20px 16px 0;
 }
 
 #project-nav ul li a{
@@ -313,11 +313,15 @@ a:hover, a:focus {
 
 .navbar-inverse .navbar-nav > li > a {
   color: #000000;
+  -webkit-transition: all .25s; /* Safari */
+  transition: all .25s;
 }
 
 .navbar-inverse .navbar-nav > li > a.active-white {
     color: #FFFFFF;
     font-weight:700;
+    -webkit-transition: all .25s; /* Safari */
+    transition: all .25s;
     /*padding-top:10px;*/
 }
 
@@ -349,32 +353,37 @@ a:hover, a:focus {
 .navbar h1 a.index-white{
   color: #FFFFFF;
   text-decoration:none;
+  -webkit-transition: all .75s; /* Safari */
+  transition: all .75s;
 }
 
 .navbar h1 a.index-white:hover{
   color: #FFFFFF;
-  -webkit-text-fill-color: transparent;
+  /*-webkit-text-fill-color: transparent;
  background: -webkit-linear-gradient(transparent, transparent),
              url('../images/homepage1.jpg') repeat;
  background: -o-linear-gradient(transparent, transparent);
- -webkit-background-clip: text;
+ -webkit-background-clip: text;*/
  text-decoration:none;
 }
 
 .navbar h1 a{
   color: #000000;
   text-decoration: none;
+  text-shadow: none;
+  -webkit-transition: all .75s; /* Safari */
+  transition: all .75s;
 }
 
 .navbar h1 a:hover{
-  color: #FFFFFF;
-  -webkit-text-fill-color: transparent;
+  color: #000000;
+  /*-webkit-text-fill-color: transparent;
  background: -webkit-linear-gradient(transparent, transparent),
              url('../images/homepage1.jpg') repeat;
  background: -o-linear-gradient(transparent, transparent);
- -webkit-background-clip: text;
- text-decoration:none;
+ -webkit-background-clip: text;*/
   text-decoration: none;
+  /*text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);*/
 }
 
 .navbar-collapse {
@@ -619,6 +628,11 @@ q:after  { content: close-quote; }
  
 /* Landscape phones and down */
 @media (max-width: 480px) {
+
+  hr{
+    margin-top:15px;
+    margin-bottom:30px;
+  }
 
   #responsive-video{
     margin-bottom:15px;
