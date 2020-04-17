@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mobile-h",
+				"mobile-hide"
+			],
+			[
+				"mobile-lr",
+				"mobile-welcome-lr-padding"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"mobile-",
+				"mobile-lr-padding"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leesummers/Documents/GitHub/MM"
+	],
+	"file_history":
+	[
+		"/Users/leesummers/Documents/GitHub/MM/css/user.css",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/index.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/14.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/13.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/15.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/12.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/10.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/11.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/09.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/08.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/07.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/06.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/05.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/04.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/03.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/02.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/01.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/index.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/15.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/14.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/13.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/12.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/11.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/10.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/09.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/08.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/07.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/06.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/05.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/04.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/03.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/02.html",
+		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/01.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/In App Message/InApp Template.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Iterable-Master.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/In App Message/inApp-Red-Template.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/todaytix-welcome-covid.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/InApp Template.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Welcome-01.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Welcome-Lottery.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Welcome-Rush.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Deals-of-the-Week.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Show-Promo.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Spotlight-Deals.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Best of the Decade Email/_build/Iterable-Best-of-the-Decade-Email.html",
+		"/Users/leesummers/Documents/Clients/Cigna/13696-Onsite-Health/Email 2/13696-Onsite-Health-Email-02b.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/dc-octopus-email.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Broadway World/1125_BWW_LON_Revised-ls112519.html",
+		"/Users/leesummers/Downloads/BWW_CyberMonday_ls112719.html",
+		"/Users/leesummers/Downloads/1125_BWW_LON_Revised-ls112519.html",
+		"/Users/leesummers/Downloads/BWW_CyberMonday.html",
+		"/Users/leesummers/Downloads/BroadwayWorld_Email_New-ls100419.html",
+		"/Users/leesummers/Downloads/1125_BWW_LON_Revised.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Marketing-Emails/how-lotteries-work-redblock.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Marketing-Emails/how-rush-works-redblock.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Marketing-Emails/spotlight-deals-red-icons.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Purchase Voucher/second-purchase-voucher-2.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/TodayTix-Confirmation-Email-081519.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Purchase Voucher/second-purchase-voucher.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Survey-Code.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/untitled.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Gift Card Emails/digital_sender_no_recipient-070519.html",
+		"/Users/leesummers/Documents/Clients/TodayTix/Gift Card Emails/digital_sender_no_recipient.html",
+		"/Applications/MAMP/htdocs/MM/index.html",
+		"/Applications/MAMP/htdocs/MM/projects/index.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/11.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/index.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/05.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/06.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/07.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/08.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/09.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/10.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/12.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/13.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/14.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/15.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/16.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/17.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/18.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/19.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/20.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/21.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/22.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/23.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/24.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/25.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/26.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/27.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/28.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/29.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/30.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/31.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/32.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/33.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/34.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/35.html",
+		"/Applications/MAMP/htdocs/MM/info.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/05.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/06.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/07.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/08.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/10.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/11.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/15.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/index.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/12.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/13.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/14.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/09.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/05.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/06.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/07.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/08.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/09.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/10.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MM.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
