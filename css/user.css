@@ -10,7 +10,7 @@ body {
   margin:0;
 }
 
-h1, h2, h3, h4{
+h1, h2, h3, h4, h5{
   font-family: 'proxima-nova', Helvetica, Arial, sans-serif;
   font-size:1em;
   font-style:normal;
@@ -18,7 +18,13 @@ h1, h2, h3, h4{
   line-height:1;
   margin:0;
   padding:0;
-  /*letter-spacing:-1px;*/
+}
+
+h4, h5{
+  font-size:2.4em;
+  text-align:center;
+  font-weight:400;
+  text-transform: uppercase;
 }
 
 li{
@@ -90,7 +96,6 @@ a:hover, a:focus {
 #info{
   background-color:#FFFFFF;
   padding:15px 0 15px 0;
-  /*border-bottom:1px solid #000000;*/
 }
 
 #bio a{
@@ -192,10 +197,6 @@ a:hover, a:focus {
   color:#000000;
 }
 
-#projects-index img, #collections-index img, #videos-index img{
-  /*margin:0 0 15px 0;*/
-}
-
 #projects-index-container a img, #projects-index a img, #videos-index a img{
   opacity: 1;
   filter: alpha(opacity=100);
@@ -228,9 +229,9 @@ a:hover, a:focus {
 }
 
 #projects h3{
-  font-size:2.4em;
+  font-size:2em;
   font-weight:300;
-  line-height:1;
+  line-height:1.25;
   margin:0 0 5px 0;
   color:#000000;
 }
@@ -257,8 +258,6 @@ a:hover, a:focus {
 }
 
 #arrow-nav span{
-  /*font-size:1.6em;
-  line-height:1;*/
   color:#000000;
 }
 
@@ -307,9 +306,6 @@ a:hover, a:focus {
 }
 
 .navbar {
-  /*position: relative;
-  z-index: 1000;
-  min-height: 50px;*/
   margin-bottom: 0;
   border: none;
 }
@@ -331,7 +327,6 @@ a:hover, a:focus {
     font-weight:700;
     -webkit-transition: all .25s; /* Safari */
     transition: all .25s;
-    /*padding-top:10px;*/
 }
 
 .navbar-inverse .navbar-nav > li > a.active-white:hover {
@@ -368,11 +363,6 @@ a:hover, a:focus {
 
 .navbar h1 a.index-white:hover{
   color: #FFFFFF;
-  /*-webkit-text-fill-color: transparent;
- background: -webkit-linear-gradient(transparent, transparent),
-             url('../images/homepage1.jpg') repeat;
- background: -o-linear-gradient(transparent, transparent);
- -webkit-background-clip: text;*/
  text-decoration:none;
 }
 
@@ -386,19 +376,11 @@ a:hover, a:focus {
 
 .navbar h1 a:hover{
   color: #000000;
-  /*-webkit-text-fill-color: transparent;
- background: -webkit-linear-gradient(transparent, transparent),
-             url('../images/homepage1.jpg') repeat;
- background: -o-linear-gradient(transparent, transparent);
- -webkit-background-clip: text;*/
   text-decoration: none;
-  /*text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);*/
 }
 
 .navbar-collapse {
-  /*max-height: 340px;*/
   padding:0;
-  /*overflow-x: visible;*/
   border-top: none;
   box-shadow: none;
   -webkit-overflow-scrolling: touch;
@@ -462,10 +444,10 @@ a:hover, a:focus {
 }
 
 .btn-sm, .btn-xs {
-    padding: 5px 10px;
-    font-size: 3.2em;
-    line-height: 1.5;
-    border-radius: 3px;
+  padding: 5px 10px;
+  font-size: 3.2em;
+  line-height: 1.5;
+  border-radius: 3px;
 }
 
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
@@ -499,6 +481,7 @@ q:after  { content: close-quote; }
     margin: 0 0 15px 0;
     padding:0;
   }*/
+
 }
  
 /* Portrait tablet to landscape and desktop */
