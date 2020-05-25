@@ -1,0 +1,126 @@
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font: normal 100%/1.5 'proxima-nova', Helvetica, Arial, sans-serif;
+  background-color:#FFFFFF;
+  color:#000000;
+  padding:0;
+  margin:0;
+}
+
+h1, h2, h3, h4{
+  font-family: 'proxima-nova', Helvetica, Arial, sans-serif;
+  font-size:1em;
+  font-style:normal;
+  font-weight:700;
+  line-height:1;
+  margin:0;
+  padding:0;
+}
+
+/****************** HOMEPAGE ********************/
+
+nav h1{
+  font-size:2.5em;
+}
+
+nav h1 a:link, nav h1 a:visited, nav h1 a:hover{
+  color:#000;
+  text-decoration:none;
+}
+
+main h2, main h3, section h2, section h3{
+  font-size:1.5em;
+}
+
+main h2 a:link, main h2 a:visited, main h3 a:link, main h3 a:visited, section h2 a:link, section h2 a:visited, section h3 a:link, section h3 a:visited{
+  color:#000;
+  text-decoration:none;
+}
+
+main h2 a:hover, main h3 a:hover, section h2 a:hover, section h3 a:hover{
+  text-decoration:underline;
+}
+
+nav ul, main ul, section ul, footer ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+nav ul li{
+  font-size:1em;
+  line-height:1;
+  display:inline;
+  padding-right:15px;
+}
+
+nav ul li:last-child{
+  padding:0;
+}
+
+nav ul li a:link, nav ul li a:visited{
+  color:#000;
+}
+
+main ul li, section ul li{
+  font-size:1.125em;
+  line-height:1.5;
+}
+
+main ul li a:link, main ul li a:visited, section ul li a:link, section ul li a:visited, footer ul li a:link, footer ul li a:visited{
+  color:#000;
+  text-decoration:none;
+}
+
+main ul li a:hover, section ul li a:hover, footer ul li a:hover{
+  text-decoration:underline;
+}
+
+/*footer{
+  font-size:1.125em;
+}*/
+
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-right {
+  transition: .6s opacity ease;
+}
+
+/* Disable transitions for if reduced motion is enabled: */
+@media (prefers-reduced-motion:reduce) {
+  .carousel-fade .active.carousel-item-left,
+  .carousel-fade .active.carousel-item-right {
+    transition: none;
+  }
+} 
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  nav h1{
+    font-size:2em;
+  }
+  main h2, main h3, section h2{
+    font-size:1.125em;
+  }
+  main ul li, section ul li{
+    font-size:1.125em;
+    line-height:1.275;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
