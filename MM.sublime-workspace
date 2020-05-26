@@ -23,6 +23,17 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Matthew Moore Photography / Projects / Post-Socialist Landscapes</title>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"keywords\" content=\"matthew moore, photography, atlanta, georgia, prague, portraits, editorial, detroit, michigan ave\" >\n<meta name=\"description\" content=\"Matthew Moore is an award winning photographer based in Annapolis, Maryland where he is an instructor of photography and coordinator of the photography program at Anne Arundel Community College.\" >\n\n<link href=\"../../css/bootstrap.css\" rel=\"stylesheet\">\n<link href=\"../../css/user.css\" rel=\"stylesheet\">\n\n<script type=\"text/javascript\" src=\"//use.typekit.net/myh4vmw.js\"></script>\n<script type=\"text/javascript\">try{Typekit.load();}catch(e){}</script>\n\n<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->\n<!--[if lt IE 9]>\n      <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n      <script src=\"../../js/respond.min.js\"></script>\n    <![endif]-->\n\n<!-- Fav and touch icons -->\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"../../ico/apple-touch-icon-144-precomposed.png\">\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" href=\"../../ico/apple-touch-icon-114-precomposed.png\">\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"72x72\" href=\"../../ico/apple-touch-icon-72-precomposed.png\">\n<link rel=\"apple-touch-icon-precomposed\" href=\"../../ico/apple-touch-icon-57-precomposed.png\">\n<link rel=\"shortcut icon\" href=\"../../ico/favicon.png\">\n</head>\n\n<body>\n  <header>\n    <div class=\"navbar navbar-inverse navbar-fixed-top\" id=\"info\">\n        <div class=\"container\">\n          <div class=\"navbar-header\">\n            <button type=\"button\" class=\"navbar-toggle btn-link\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n              <span class=\"glyphicon glyphicon-align-justify\"></span>\n            </button>\n            <h1><a href=\"../../index.html\">Matthew Moore</a></h1>\n          </div>\n\n         <div class=\"collapse navbar-collapse\">\n            <ul class=\"nav navbar-nav\" id=\"main-nav\">\n              <li><a href=\"../../projects/\" class=\"active\">Projects</a></li>\n              <li><a href=\"../../info.html\">Info</a></li>\n            </ul>\n          </div>\n          <!--/.nav-collapse --> \n        </div>\n    </div>\n  </header>\n\n  <nav id=\"project-nav\">\n    <div class=\"container\">\n       <div class=\"row\">\n          <div class=\"col-sm-12\">\n            <ul>\n              <li><a href=\"../../projects/psl/\" class=\"active\">Post-Socialist Landscapes</a></li>\n              <li><a href=\"../../projects/terra_incognita/\">Terra Incognita</a></li>\n              <li><a href=\"../../projects/seascapes/\">Seascapes</a></li>\n              <li><a href=\"../../projects/analogous/\">Analogous</a></li>\n              <li><a href=\"../../projects/guoda/\">Guoda</a></li>\n              <li><a href=\"../../projects/east_west/\">East/West</a></li>\n              <li><a href=\"../../projects/night_zoo/\">Night Zoo</a></li>\n              <li><a href=\"../../projects/exodus/\">Exodus</a></li>\n              <li><a href=\"../../projects/influence/\">Influence</a></li>\n            </ul>\n         </div>\n       </div>\n    </div>\n  </nav>\n       \n  <section id=\"projects\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-sm-8\"><a href=\"32.html\"><img src=\"images/blast-berms-turisalu-missile-base-est-2015-1.jpg\" alt=\"Post-Socialist Landscapes\" class=\"img-responsive\"></a></div>\n        <div class=\"col-sm-4\">\n          <div class=\"row\">\n            <div class=\"col-sm-12 text-center\">\n              <h3>Blast Berms, Turisalu Missile Base</h3>\n              <p><em>Estonia, 2015</em></p>\n            </div>\n            <div class=\"col-sm-12 text-center\" id=\"arrow-nav\">\n              <div class=\"btn-group\">\n                <a href=\"30.html\" type=\"button\" class=\"btn btn-link btn-xs\"><span class=\"glyphicon glyphicon-chevron-left\"></span></a>\n                <a href=\"32.html\" type=\"button\" class=\"btn btn-link btn-xs\"><span class=\"glyphicon glyphicon-chevron-right\"></span></a>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </section>\n       \n  <footer>\n    <div class=\"container\">\n\n      <div class=\"row hidden-xs\">\n        <div class=\"col-sm-5\">All Images &copy; Matthew Moore 2020</div>\n        <div class=\"col-sm-7 text-right\">\n          <span><a href=\"mailto:matt@moorephotographs.com\">matt@moorephotographs.com</a></span>\n<span>313.689.1434</span>\n        </div>\n      </div>\n\n      <div class=\"row visible-xs\">\n        <div class=\"col-sm-12\">\n          <span>All Images &copy; Matthew Moore 2020</span>\n          <span><a href=\"mailto:matt@moorephotographs.com\">matt@moorephotographs.com</a></span>\n<span>313.689.1434</span>\n        </div>\n      </div>\n      \n    </div>\n  </footer>\n\n  <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js\" type=\"text/javascript\"></script>\n  <script src=\"../../js/bootstrap.min.js\"></script>\n\n\n<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n<script>\n    var _gaq=[['_setAccount','UA-10105113-1'],['_trackPageview']];\n    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];\n    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';\n    s.parentNode.insertBefore(g,s)}(document,'script'));\n</script>\n</body>\n</html>",
+			"file": "projects/psl/31.html",
+			"file_size": 5438,
+			"file_write_time": 132319574574772173,
+			"settings":
+			{
+				"buffer_size": 5438,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -77,91 +88,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/leesummers/Documents/GitHub/MM"
+		"/Applications/MAMP/htdocs/MM",
+		"/Applications/MAMP/htdocs/MM/projects",
+		"/Applications/MAMP/htdocs/MM/projects/psl"
 	],
 	"file_history":
 	[
-		"/Users/leesummers/Documents/GitHub/MM/css/user.css",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/index.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/14.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/13.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/15.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/12.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/10.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/11.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/09.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/08.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/07.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/06.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/05.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/04.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/03.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/02.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/terra_incognita/01.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/index.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/15.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/14.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/13.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/12.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/11.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/10.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/09.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/08.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/07.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/06.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/05.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/04.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/03.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/02.html",
-		"/Users/leesummers/Documents/GitHub/MM/projects/east_west/01.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/In App Message/InApp Template.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Iterable-Master.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/In App Message/inApp-Red-Template.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/todaytix-welcome-covid.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/InApp Template.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Welcome-01.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Welcome-Lottery.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Welcome-Rush.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Deals-of-the-Week.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Show-Promo.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Emails/Spotlight-Deals.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Iterable Best of the Decade Email/_build/Iterable-Best-of-the-Decade-Email.html",
-		"/Users/leesummers/Documents/Clients/Cigna/13696-Onsite-Health/Email 2/13696-Onsite-Health-Email-02b.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/dc-octopus-email.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Broadway World/1125_BWW_LON_Revised-ls112519.html",
-		"/Users/leesummers/Downloads/BWW_CyberMonday_ls112719.html",
-		"/Users/leesummers/Downloads/1125_BWW_LON_Revised-ls112519.html",
-		"/Users/leesummers/Downloads/BWW_CyberMonday.html",
-		"/Users/leesummers/Downloads/BroadwayWorld_Email_New-ls100419.html",
-		"/Users/leesummers/Downloads/1125_BWW_LON_Revised.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Marketing-Emails/how-lotteries-work-redblock.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Marketing-Emails/how-rush-works-redblock.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Marketing-Emails/spotlight-deals-red-icons.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Purchase Voucher/second-purchase-voucher-2.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/TodayTix-Confirmation-Email-081519.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Purchase Voucher/second-purchase-voucher.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Survey-Code.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/untitled.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Gift Card Emails/digital_sender_no_recipient-070519.html",
-		"/Users/leesummers/Documents/Clients/TodayTix/Gift Card Emails/digital_sender_no_recipient.html",
-		"/Applications/MAMP/htdocs/MM/index.html",
-		"/Applications/MAMP/htdocs/MM/projects/index.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/11.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/index.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/01.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/02.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/03.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/04.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/05.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/06.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/07.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/08.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/09.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/10.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/12.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/13.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/14.html",
-		"/Applications/MAMP/htdocs/MM/projects/psl/15.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/16.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/17.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/18.html",
@@ -178,37 +111,117 @@
 		"/Applications/MAMP/htdocs/MM/projects/psl/29.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/30.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/31.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/05.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/06.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/07.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/08.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/09.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/10.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/11.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/12.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/13.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/14.html",
+		"/Applications/MAMP/htdocs/MM/projects/psl/15.html",
+		"/Applications/MAMP/htdocs/MM/css/user.css",
+		"/Applications/MAMP/htdocs/MM/projects/index.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/07.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/08.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/09.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/10.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/11.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/12.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/13.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/14.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/15.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/09.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/10.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/11.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/13.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/14.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/15.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/08.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/07.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/06.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/05.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/12.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/05.html",
+		"/Applications/MAMP/htdocs/MM/projects/seascapes/06.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/allen-ginsberg.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/anne-waldman.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/bob-weir.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/david-byrne.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/errol-morris.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/eugene-richards.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/index.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/jane-goodall.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/ken-kesey.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/noam-chomsky.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/patch-adams.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/rodriguez.html",
+		"/Applications/MAMP/htdocs/MM/projects/influence/thich-naht-hahn.html",
+		"/Applications/MAMP/htdocs/MM/projects/night_zoo/index.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/32.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/33.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/34.html",
 		"/Applications/MAMP/htdocs/MM/projects/psl/35.html",
-		"/Applications/MAMP/htdocs/MM/info.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/01.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/02.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/04.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/03.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/05.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/06.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/07.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/08.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/10.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/11.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/15.html",
 		"/Applications/MAMP/htdocs/MM/projects/seascapes/index.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/12.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/13.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/14.html",
-		"/Applications/MAMP/htdocs/MM/projects/seascapes/09.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/01.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/02.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/03.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/04.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/05.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/06.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/07.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/08.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/09.html",
-		"/Applications/MAMP/htdocs/MM/projects/terra_incognita/10.html"
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/05.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/06.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/07.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/08.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/09.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/10.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/11.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/12.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/13.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/14.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/15.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/16.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/17.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/18.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/19.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/20.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/21.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/22.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/23.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/24.html",
+		"/Applications/MAMP/htdocs/MM/projects/the_chicago_road/index.html",
+		"/Applications/MAMP/htdocs/MM/editorial/01.html",
+		"/Applications/MAMP/htdocs/MM/editorial/02.html",
+		"/Applications/MAMP/htdocs/MM/editorial/03.html",
+		"/Applications/MAMP/htdocs/MM/editorial/04.html",
+		"/Applications/MAMP/htdocs/MM/editorial/05.html",
+		"/Applications/MAMP/htdocs/MM/editorial/06.html",
+		"/Applications/MAMP/htdocs/MM/editorial/07.html",
+		"/Applications/MAMP/htdocs/MM/editorial/08.html",
+		"/Applications/MAMP/htdocs/MM/editorial/09.html",
+		"/Applications/MAMP/htdocs/MM/editorial/10.html",
+		"/Applications/MAMP/htdocs/MM/editorial/11.html",
+		"/Applications/MAMP/htdocs/MM/editorial/12.html",
+		"/Applications/MAMP/htdocs/MM/editorial/13.html",
+		"/Applications/MAMP/htdocs/MM/editorial/14.html",
+		"/Applications/MAMP/htdocs/MM/editorial/index.html",
+		"/Applications/MAMP/htdocs/MM/projects/analogous/01.html",
+		"/Applications/MAMP/htdocs/MM/projects/analogous/02.html",
+		"/Applications/MAMP/htdocs/MM/projects/analogous/03.html",
+		"/Applications/MAMP/htdocs/MM/projects/analogous/04.html",
+		"/Applications/MAMP/htdocs/MM/projects/analogous/05.html"
 	],
 	"find":
 	{
@@ -219,6 +232,7 @@
 		"height": 101.0,
 		"where_history":
 		[
+			"/Applications/MAMP/htdocs/MM"
 		]
 	},
 	"find_state":
@@ -226,6 +240,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h3",
+			"h4",
+			"All Images &copy; Matthew Moore 2019"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -233,6 +250,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"All Images &copy; Matthew Moore 2020"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -243,8 +261,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "projects/psl/31.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1466,
+								1466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -287,7 +336,7 @@
 	"project": "MM.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
